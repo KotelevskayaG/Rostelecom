@@ -12,11 +12,11 @@
 - тестирование состояний и переходов.
 
 Используемые при тестировании библиотеки PyCharm:
-requests
-python-dotenv
-pytest
-selenium
-faker
+- requests
+- python-dotenv
+- pytest
+- selenium
+- faker
 
 Автотесты настроены на запуск через Run.
 
